@@ -1,4 +1,10 @@
-### Hi there 👋
+### Yo! 👋
+
+####A Former Senior Software Engineer became a Product Manager
+
+- 🔭 I help small businesses to reach their technological targets
+- 🌱 I work on some interesting projects from time to time. Read about them on my blog (https://blog.narathota.com)
+- 😄 Everything else you need to know about me is on my website (https://www.narathota.com)
 
 <!--
 **narathota/narathota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
